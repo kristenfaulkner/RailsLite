@@ -7,9 +7,9 @@ The specs were written with _you_ in mind ;) Run them in this order they should
 generally follow the progression of the project.
 
 ## Suggested Order
-0.  `rake spec spec/controller_base_spec.rb`
-0.  `rake spec spec/session_spec.rb`
-0.  `rake spec spec/params_spec.rb`
+0.  `rake spec spec/controller_base_spec.rb` #done
+0.  `rake spec spec/session_spec.rb` #done
+0.  `rake spec spec/params_spec.rb` #done
 0.  `rake spec spec/router_spec.rb`
 0.  `rake spec spec/integration_spec.rb`
 
